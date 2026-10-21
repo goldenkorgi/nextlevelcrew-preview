@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="titel">
+  <title id="titel">Platzhalter: Basic T-Shirt in Schwarz, Design folgt</title>
+  <defs>
+    <radialGradient id="licht" cx="50%" cy="38%" r="65%">
+      <stop offset="0" stop-color="#18201c"/>
+      <stop offset="1" stop-color="#0b0e0c"/>
+    </radialGradient>
+    <linearGradient id="stoff" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16191a"/>
+      <stop offset="0.55" stop-color="#090a0a"/>
+      <stop offset="1" stop-color="#050606"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#licht)"/>
+  <ellipse cx="400" cy="668" rx="230" ry="18" fill="#000" opacity="0.45"/>
+  <path d="M328 150 Q400 214 472 150 L572 184 L668 298 L590 372 L546 334 L546 636 Q400 660 254 636 L254 334 L210 372 L132 298 L228 184 Z"
+        fill="url(#stoff)" stroke="#2c3530" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M328 150 Q400 214 472 150" fill="none" stroke="#3a4640" stroke-width="10" stroke-linecap="round"/>
+  <path d="M546 334 L546 360 M254 334 L254 360" stroke="#1f2622" stroke-width="3"/>
+  <path d="M590 372 L546 334 M210 372 L254 334" stroke="#2c3530" stroke-width="3"/>
+  <text x="400" y="296" text-anchor="middle" font-family="Impact, 'Arial Narrow', Arial, sans-serif" font-size="40" letter-spacing="6" fill="#05e398">NXTLVL</text>
+  <rect x="262" y="702" width="276" height="52" rx="26" fill="none" stroke="#05e398" stroke-width="3"/>
+  <text x="400" y="737" text-anchor="middle" font-family="'Arial Narrow', Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="5" fill="#05e398">DESIGN FOLGT</text>
+  <text x="400" y="92" text-anchor="middle" font-family="'Arial Narrow', Arial, sans-serif" font-size="20" letter-spacing="6" fill="#9aa6a0">PLATZHALTER</text>
+</svg>
